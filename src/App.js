@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import "./libs/mdb.min.css"
 import './App.css';
 
 function App() {
